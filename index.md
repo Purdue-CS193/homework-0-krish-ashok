@@ -1,5 +1,6 @@
 # Krish's First CS193 Homework
 
+## Things I like about CS-193
 - learning terminal
 - learning skills needed for cs
 - the friendly student instructors 
